@@ -1,0 +1,4 @@
+name: MobHealth
+version: '1.0-1.21'
+main: one.pouekdev.mobHealth.MobHealth
+api-version: '1.21'
